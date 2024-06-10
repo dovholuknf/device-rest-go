@@ -143,3 +143,9 @@ require (
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 	nhooyr.io/websocket v1.8.10 // indirect
 )
+
+replace github.com/edgexfoundry/device-sdk-go/v3 => github.com/dovholuknf/device-sdk-go/v3 v3.0.0-20240321011900-c7a78bd0a590
+
+replace github.com/edgexfoundry/go-mod-core-contracts/v3 => github.com/dovholuknf/go-mod-core-contracts/v3 v3.0.0-20240305025832-29429b2ab484
+
+replace github.com/edgexfoundry/go-mod-bootstrap/v3 => github.com/dovholuknf/go-mod-bootstrap/v3 v3.0.0-20240530134340-3afeea7b367a
