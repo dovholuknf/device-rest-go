@@ -20,3 +20,5 @@ glide.lock
 
 coverage.out
 VERSION
+
+go.work*
